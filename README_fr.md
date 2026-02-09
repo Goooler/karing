@@ -75,6 +75,9 @@ Une interface graphique <a href="https://github.com/SagerNet/sing-box">singbox</
 - **Windows/Macos/Linux** :
   - [https://karing.app/download](https://karing.app/download)
   - https://github.com/KaringX/karing/releases/latest
+  - ```sh
+  brew install karing
+  ```
 
 ### FAQ
 
