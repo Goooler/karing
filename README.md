@@ -75,9 +75,7 @@ English | [简体中文](./README_cn.md) | [繁體中文](./README_tw.md) | [日
 - **Windows/Macos/Linux**:
   - [https://karing.app/download](https://karing.app/download)
   - https://github.com/KaringX/karing/releases/latest
-  - ```sh
-  brew install karing
-  ```
+  - `brew install karing`
 
 ### FAQ
 

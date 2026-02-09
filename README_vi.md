@@ -75,9 +75,7 @@ Giao diện người dùng <a href="https://github.com/SagerNet/sing-box">singbo
 - **Windows/Macos/Linux**:
   - [https://karing.app/download](https://karing.app/download)
   - https://github.com/KaringX/karing/releases/latest
-  - ```sh
-  brew install karing
-  ```
+  - `brew install karing`
 
 ### Câu hỏi thường gặp (FAQ)
 
